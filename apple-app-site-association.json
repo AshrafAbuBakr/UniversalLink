@@ -1,0 +1,22 @@
+{
+    "activitycontinuation": {
+      "apps": [
+        "SR8SLNYKHR.com.itworx.WinjiGo-For-Teacher"
+      ]
+    },
+    "webcredentials": {
+      "apps": [
+        "SR8SLNYKHR.com.itworx.WinjiGo-For-Teacher"
+      ]
+    },
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "SR8SLNYKHR.com.itworx.WinjiGo-For-Teacher",
+          "paths": [
+            "github.com/AshrafAbuBakr/UniversalLink.git/master/*"]
+        }
+      ]
+    }
+  }
